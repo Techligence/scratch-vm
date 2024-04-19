@@ -1,3 +1,6 @@
+// if this not works use code in ./index1.js
+
+
 const ArgumentType = require('../../extension-support/argument-type');
 const Cast = require('../../util/cast');
 const BlockType = require('../../extension-support/block-type');
