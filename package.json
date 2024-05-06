@@ -53,6 +53,7 @@
     "statements": 70
   },
   "dependencies": {
+    "@google/generative-ai": "^0.7.1",
     "@vernier/godirect": "^1.5.0",
     "arraybuffer-loader": "^1.0.6",
     "atob": "^2.1.2",
